@@ -1,0 +1,61 @@
+tokenizer,language,iso639-3,n_sentences,total_words,total_tokens,fertility,tokens_per_sentence
+Qwen/Qwen2.5-0.5B,English,eng,400,7811,10537,1.349,26.34
+hf-internal-testing/llama-tokenizer,English,eng,400,7811,12095,1.5485,30.24
+mistralai/Mistral-7B-v0.1,English,eng,400,7811,11586,1.4833,28.96
+google-bert/bert-base-multilingual-cased,English,eng,400,7811,11361,1.4545,28.4
+openai/o200k_base (GPT-4o),English,eng,400,7811,10121,1.2957,25.3
+Qwen/Qwen2.5-0.5B,Shona,sna,400,5959,18879,3.1681,47.2
+hf-internal-testing/llama-tokenizer,Shona,sna,400,5959,20402,3.4237,51.01
+mistralai/Mistral-7B-v0.1,Shona,sna,400,5959,20544,3.4476,51.36
+google-bert/bert-base-multilingual-cased,Shona,sna,400,5959,17749,2.9785,44.37
+openai/o200k_base (GPT-4o),Shona,sna,400,5959,15259,2.5607,38.15
+Qwen/Qwen2.5-0.5B,"Ndebele (Northern, Zimbabwe)",nde,400,5990,20770,3.4674,51.92
+hf-internal-testing/llama-tokenizer,"Ndebele (Northern, Zimbabwe)",nde,400,5990,22449,3.7477,56.12
+mistralai/Mistral-7B-v0.1,"Ndebele (Northern, Zimbabwe)",nde,400,5990,22529,3.7611,56.32
+google-bert/bert-base-multilingual-cased,"Ndebele (Northern, Zimbabwe)",nde,400,5990,20071,3.3508,50.18
+openai/o200k_base (GPT-4o),"Ndebele (Northern, Zimbabwe)",nde,400,5990,16846,2.8124,42.12
+Qwen/Qwen2.5-0.5B,"Ndebele (Southern, SA)",nbl,400,4260,15723,3.6908,39.31
+hf-internal-testing/llama-tokenizer,"Ndebele (Southern, SA)",nbl,400,4260,17050,4.0023,42.62
+mistralai/Mistral-7B-v0.1,"Ndebele (Southern, SA)",nbl,400,4260,17344,4.0714,43.36
+google-bert/bert-base-multilingual-cased,"Ndebele (Southern, SA)",nbl,400,4260,14891,3.4955,37.23
+openai/o200k_base (GPT-4o),"Ndebele (Southern, SA)",nbl,400,4260,12791,3.0026,31.98
+Qwen/Qwen2.5-0.5B,Tswana,tsn,400,9654,19570,2.0271,48.92
+hf-internal-testing/llama-tokenizer,Tswana,tsn,400,9654,21007,2.176,52.52
+mistralai/Mistral-7B-v0.1,Tswana,tsn,400,9654,20944,2.1695,52.36
+google-bert/bert-base-multilingual-cased,Tswana,tsn,400,9654,18472,1.9134,46.18
+openai/o200k_base (GPT-4o),Tswana,tsn,400,9654,16328,1.6913,40.82
+Qwen/Qwen2.5-0.5B,Sotho (Southern),sot,400,6875,14755,2.1462,36.89
+hf-internal-testing/llama-tokenizer,Sotho (Southern),sot,400,6875,15645,2.2756,39.11
+mistralai/Mistral-7B-v0.1,Sotho (Southern),sot,400,6875,15814,2.3002,39.53
+google-bert/bert-base-multilingual-cased,Sotho (Southern),sot,400,6875,13502,1.9639,33.76
+openai/o200k_base (GPT-4o),Sotho (Southern),sot,400,6875,12195,1.7738,30.49
+Qwen/Qwen2.5-0.5B,Xitsonga / Shangani,tso,400,7811,18385,2.3537,45.96
+hf-internal-testing/llama-tokenizer,Xitsonga / Shangani,tso,400,7811,19927,2.5511,49.82
+mistralai/Mistral-7B-v0.1,Xitsonga / Shangani,tso,400,7811,19953,2.5545,49.88
+google-bert/bert-base-multilingual-cased,Xitsonga / Shangani,tso,400,7811,17377,2.2247,43.44
+openai/o200k_base (GPT-4o),Xitsonga / Shangani,tso,400,7811,14399,1.8434,36.0
+Qwen/Qwen2.5-0.5B,Chewa,nya,400,6357,17349,2.7291,43.37
+hf-internal-testing/llama-tokenizer,Chewa,nya,400,6357,19015,2.9912,47.54
+mistralai/Mistral-7B-v0.1,Chewa,nya,400,6357,18634,2.9313,46.59
+google-bert/bert-base-multilingual-cased,Chewa,nya,400,6357,15905,2.502,39.76
+openai/o200k_base (GPT-4o),Chewa,nya,400,6357,13343,2.0989,33.36
+Qwen/Qwen2.5-0.5B,Venda,ven,66,1732,4478,2.5855,67.85
+hf-internal-testing/llama-tokenizer,Venda,ven,66,1732,5093,2.9405,77.17
+mistralai/Mistral-7B-v0.1,Venda,ven,66,1732,5048,2.9145,76.48
+google-bert/bert-base-multilingual-cased,Venda,ven,66,1732,3653,2.1091,55.35
+openai/o200k_base (GPT-4o),Venda,ven,66,1732,3705,2.1391,56.14
+Qwen/Qwen2.5-0.5B,Tonga (Zimbabwe),tog,400,4210,12954,3.077,32.38
+hf-internal-testing/llama-tokenizer,Tonga (Zimbabwe),tog,400,4210,14388,3.4176,35.97
+mistralai/Mistral-7B-v0.1,Tonga (Zimbabwe),tog,400,4210,14238,3.3819,35.59
+google-bert/bert-base-multilingual-cased,Tonga (Zimbabwe),tog,400,4210,11994,2.8489,29.98
+openai/o200k_base (GPT-4o),Tonga (Zimbabwe),tog,400,4210,10619,2.5223,26.55
+Qwen/Qwen2.5-0.5B,Ndau,ndc,400,672,1181,1.7574,2.95
+hf-internal-testing/llama-tokenizer,Ndau,ndc,400,672,1356,2.0179,3.39
+mistralai/Mistral-7B-v0.1,Ndau,ndc,400,672,1383,2.058,3.46
+google-bert/bert-base-multilingual-cased,Ndau,ndc,400,672,1810,2.6935,4.53
+openai/o200k_base (GPT-4o),Ndau,ndc,400,672,1109,1.6503,2.77
+Qwen/Qwen2.5-0.5B,Kalanga,kck,400,3672,11259,3.0662,28.15
+hf-internal-testing/llama-tokenizer,Kalanga,kck,400,3672,12266,3.3404,30.66
+mistralai/Mistral-7B-v0.1,Kalanga,kck,400,3672,12333,3.3587,30.83
+google-bert/bert-base-multilingual-cased,Kalanga,kck,400,3672,10793,2.9393,26.98
+openai/o200k_base (GPT-4o),Kalanga,kck,400,3672,9746,2.6541,24.36

@@ -1,0 +1,17 @@
+language,iso639-3,fineweb2_rows,fineweb2_score,wikipedia_articles,wikipedia_score,bible_status,bible_score,zenodo_nlp_datasets,zenodo_score,flores200_member,flores_score,nllb200_support,nllb_score,availability_index,notes
+Chewa,nya,104057,2,1163,2,copyright Biblica,1,5,2,1,2,1,2,0.92,
+Chibarwe,bwg,0,0,0,0,none,0,0,0,0,0,0,0,0.0,zero open text all sources
+English,eng,excluded,2,7264499,2,public domain,2,many,2,1,2,1,2,1.0,FineWeb excludes English by design; scored 2 (dominant web presence)
+Kalanga,kck,132,1,0,0,none,0,0,0,0,0,0,0,0.08,FineWeb-2 slice religious-text-dominated
+Koisan (Tshwao),,0,0,0,0,none,0,0,0,0,0,0,0,0.0,no ISO 639-3 code; Glottolog tjwa1234; zero open text
+Nambya,nmq,0,0,0,0,none,0,0,0,0,0,0,0,0.0,zero open text all sources
+Ndau,ndc,779,1,0,0,none,0,0,0,0,0,0,0,0.08,"FineWeb-2 slice Bible text; Teleagents audio 94,653 rows (licence other)"
+"Ndebele (Northern, Zimbabwe)",nde,22889,2,0,0,copyright Biblica,1,0,0,0,0,0,0,0.25,no Wikipedia nd edition (SA nr: 339)
+Shangani,tso,6975,1,1329,2,none,0,4,2,1,2,1,2,0.75,shares Xitsonga entry (one data entry)
+Shona,sna,85149,2,11896,2,"copyright Biblica + OPUS bible-uedin 36,717 pairs",1,1,1,1,2,1,2,0.83,best-resourced Zimbabwe language
+Sign language,zib,0,0,0,0,n/a,0,0,0,0,0,0,0,0.0,ISO code exists; no written corpus possible
+Sotho (Southern),sot,93421,2,2256,2,none,0,2,1,1,2,1,2,0.75,SA-adjacent Zenodo datasets
+Tonga (Zimbabwe),tog,2858,1,0,0,none,0,0,0,0,0,0,0,0.08,"FineWeb-2 slice 1.81M words, religious text, encoding corruption"
+Tswana,tsn,6192,1,6131,2,copyright Biblica (NT),1,2,1,1,2,1,2,0.75,
+Venda,ven,3871,1,929,1,none,0,3,2,0,0,0,0,0.33,absent from FLORES-200 despite SA official status
+Xitsonga,tso,6975,1,1329,2,none,0,4,2,1,2,1,2,0.75,same data entry as Shangani

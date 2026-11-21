@@ -1,0 +1,13 @@
+language,iso639-3,n_sentences,misclassification_rate,top_predictions,watchlist_hits
+English,eng,300,0.0167,en=295; de=2; fr=2; da=1,
+Shona,sna,300,1.0,sw=130; rw=87; xh=28; zu=11; en=11,xh=28; mg=1; rw=87; zu=11; sw=130
+"Ndebele (Northern, Zimbabwe)",nde,300,1.0,xh=254; zu=31; it=3; en=3; sw=3,xh=254; zu=31; sw=3
+"Ndebele (Southern, SA)",nbl,300,1.0,xh=243; zu=36; sw=9; id=4; rw=3,xh=243; rw=3; zu=36; sw=9
+Tswana,tsn,300,1.0,sw=94; xh=52; it=45; en=37; tl=32,xh=52; rw=6; zu=6; sw=94
+Sotho (Southern),sot,300,1.0,sw=99; it=46; xh=42; en=27; tl=26,xh=42; mg=2; rw=1; zu=16; sw=99
+Xitsonga / Shangani,tso,300,1.0,xh=137; sw=76; zu=33; en=23; it=6,xh=137; rw=2; zu=33; sw=76
+Chewa,nya,300,1.0,sw=140; xh=50; en=34; tl=19; rw=15,xh=50; rw=15; zu=5; sw=140
+Venda,ven,65,1.0,sw=50; xh=6; zu=3; rw=2; en=2,xh=6; rw=2; zu=3; sw=50
+Tonga (Zimbabwe),tog,300,1.0,sw=184; xh=52; jv=10; zu=10; en=7,xh=52; rw=7; zu=10; sw=184
+Ndau,ndc,300,1.0,sw=86; en=32; xh=25; rw=24; pl=18,xh=25; mg=5; rw=24; sw=86
+Kalanga,kck,300,1.0,xh=144; sw=66; rw=20; zu=16; en=9,xh=144; rw=20; zu=16; sw=66

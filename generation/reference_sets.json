@@ -1,0 +1,782 @@
+{
+ "sna": {
+  "name": "chiShona",
+  "source": "OPUS bible-uedin en-sn (verse-aligned, CC0-claimed)",
+  "items": [
+   {
+    "id": 1,
+    "en": "And when it rested, he said, Return, O LORD, unto the many thousands of Israel.",
+    "ref": "Zvino pakuzorora kwayo, akati, Dzokai Jehovha, kuzviuru zvine gumi nezviuru zvavaIsiraeri."
+   },
+   {
+    "id": 2,
+    "en": "For, behold, I have made you this day a fortified city, and an iron pillar, and bronze walls, against the whole land, against the kings of Judah, against its princes, against its priests, and against the people of the land.",
+    "ref": "Nokuti tarira, ndakakuita zuva ranhasi guta rakakomberedzwa, nembiru yedare, namasvingo endarira, urwe nenyika yose, namadzimambo aJudha, namachinda avo, navapirisiti vavo, navanhu venyika."
+   },
+   {
+    "id": 3,
+    "en": "And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.",
+    "ref": "Zvino makayambuka Jorodhani, mukasvika paJeriko; varume veJeriko vakarwa nemi, vaiti: VaAmori, navaPerezi, navaKenani, navaHeti, navaGirigashi, navaHivhi, navaJebhusi; ndikavaisa mumaoko enyu."
+   },
+   {
+    "id": 4,
+    "en": "When they were but a few men in number; yea, very few, and strangers in it.",
+    "ref": "Panguva yavakanga vachiri varume vashoma pakuverengwa, Zvirokwazvo, vashoma kwazvo, navatorwa mairi;"
+   },
+   {
+    "id": 5,
+    "en": "And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.",
+    "ref": "Zvino fume mangwana vanhu vakabuda kusango; vakaudza Abhimereki."
+   },
+   {
+    "id": 6,
+    "en": "For you always have the poor with you; but you don't always have me.",
+    "ref": "Nokuti varombo munavo nguva dzose asi ini hamuneni nguva dzose."
+   },
+   {
+    "id": 7,
+    "en": "Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee.",
+    "ref": "Uti hako uri hanzvadzi yangu, kuti ndiitirwe zvakanaka nokuda kwako, kuti mweya wangu urarame nokuda kwako."
+   },
+   {
+    "id": 8,
+    "en": "Now the centurion, and those who were with him watching Jesus, when they saw the earthquake, and the things that were done, feared exceedingly, saying, \"Truly this was the Son of God.\"",
+    "ref": "Zvino mukuru wezana navairinda Jesu naye vakati vachivona kudengenyeka kwenyika nezvakaitwa, vakatya zvikuru vakati, zvirokwazvo uyu wakanga ari Mwanakomana waMwari."
+   },
+   {
+    "id": 9,
+    "en": "You will groan at your latter end, when your flesh and your body are consumed,",
+    "ref": "Iwe ugochema pakupedzisira kwako, Kana nyama yako nomuviri wako zvaparadzwa,"
+   },
+   {
+    "id": 10,
+    "en": "to receive instruction in wise dealing, in righteousness, justice, and equity;",
+    "ref": "Varairirwe nzira yokungwara, Neyokururama, nokururamisa, nokutendeka;"
+   },
+   {
+    "id": 11,
+    "en": "and thirty-two thousand persons in all, of the women who had not known man by lying with him.",
+    "ref": "navakadzi vasina kumbovata navarume vane zviuru zvina makumi matatu nezviviri."
+   },
+   {
+    "id": 12,
+    "en": "Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully.",
+    "ref": "Zvino rangarirai chinhu ichi: Unodzwara zvishoma, unocheka vo zvishoma; unodzwara zvizhinji, uchacheka vo zvizhinji."
+   },
+   {
+    "id": 13,
+    "en": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?",
+    "ref": "Esau akati, Tarira, ndofa hangu, udangwe uchandibatsireiko?"
+   },
+   {
+    "id": 14,
+    "en": "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.",
+    "ref": "tichiziva izvi, kuti munhu wedu wekare wakaroverwa pamuchinjikwa pamwe chete naye, kuti muviri wezvivi ushaiswe simba, tirege kuzova varanda vezvivi;"
+   },
+   {
+    "id": 15,
+    "en": "But they, like Adam, have broken the covenant. They were unfaithful to me, there.",
+    "ref": "Asi vakadarika sungano saAdhamu, ndipapo pavakandinyengera."
+   },
+   {
+    "id": 16,
+    "en": "Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.",
+    "ref": "Ipapo varume avo vakasungwa vana majasi avo namabhuruku avo nengowani dzavo nedzimwe nguo dzavo, vakawisirwa mukati mevira romoto unopfuta kwazvo."
+   },
+   {
+    "id": 17,
+    "en": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.",
+    "ref": "Kubwinya kwaJehovha ngakugare nokusingaperi; Jehovha ngaafarire mabasa ake;"
+   },
+   {
+    "id": 18,
+    "en": "Surely I would take it upon my shoulder, and bind it as a crown to me.",
+    "ref": "Zvirokwazvo, ndairutakura pafudzi rangu; Ndairudzika pamusoro wangu sekorona."
+   },
+   {
+    "id": 19,
+    "en": "The singers: the children of Asaph, an hundred forty and eight.",
+    "ref": "Vaimbi vakanga vari, vana vaAsafi, zana rimwe namakumi mana navasere."
+   },
+   {
+    "id": 20,
+    "en": "He said, \"The Jews have agreed to ask you to bring Paul down to the council tomorrow, as though intending to inquire somewhat more accurately concerning him.",
+    "ref": "Iye akati: VaJudha vakatenderana kukumbira kwamuri, kuti muburuse Pauro kumakurukota mangwana, vachiita savanoda kumubvunzisisa mhosva yake."
+   },
+   {
+    "id": 21,
+    "en": "For Yahweh restores the excellency of Jacob, as the excellency of Israel; for the destroyers have destroyed them, and ruined their vine branches.",
+    "ref": "Nokuti Jehovha anodzosa kurumbidzwa kukuru kwaJakobho sokurumbidzwa kukuru kwaIsiraeri; nokuti vapambi vakavapamba, vakaparadza matavi emizambiringa yavo."
+   },
+   {
+    "id": 22,
+    "en": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that is before Rabbah;",
+    "ref": "Nyika yavo raiva Jazeri, namaguta ose eGiriyadhi, nehafu yenyika yavana vaAmoni, kusvikira paAroeri, pamberi peRabha;"
+   },
+   {
+    "id": 23,
+    "en": "What man is like Job, who drinketh up scorning like water?",
+    "ref": "Ndianiko akafanana naJobho, Anonwa kushorwa semvura?"
+   },
+   {
+    "id": 24,
+    "en": "For my waist is filled with burning. There is no soundness in my flesh.",
+    "ref": "Nokuti chiuno changu chinopisa zvikuru; Hakuchina hukukutu panyama yangu."
+   },
+   {
+    "id": 25,
+    "en": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
+    "ref": "Musatsiva munhu chakaipa kana akakuitirai chakaipa. Tsvakai zvakarurama pamberi pavanhu vose."
+   },
+   {
+    "id": 26,
+    "en": "and Abishua became the father of Bukki, and Bukki became the father of Uzzi,",
+    "ref": "Abhishua akabereka Bhuki, Bhuki akabereka Uzi,"
+   },
+   {
+    "id": 27,
+    "en": "in which I suffer hardship to the point of chains as a criminal. But God's word isn't chained.",
+    "ref": "yandinotambudzikira kusvikira pakusungwa somunyangadzi; asi shoko raMwari harina kusungwa."
+   },
+   {
+    "id": 28,
+    "en": "And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen you the LORD, to serve him. And they said, We are witnesses.",
+    "ref": "Joshua akati kuvanhu, Munozvipupurira kuti makatsaura Jehovha kuti mumushumirei. Ivo vakati, Tiri zvapupu hedu."
+   },
+   {
+    "id": 29,
+    "en": "In the lampstand were four cups made like almond blossoms, its buds and its flowers;",
+    "ref": "Uye pachigadziko pakanga panotumbiya tuna twakanga twakaumbwa samaruva omuamanda, namafundo atwo, namaruva atwo;"
+   },
+   {
+    "id": 30,
+    "en": "It happened at evening, that David arose from off his bed, and walked on the roof of the king's house: and from the roof he saw a woman bathing; and the woman was very beautiful to look on.",
+    "ref": "Zvino nenguva yamadekwana, Dhavhidhi akamuka panhovo dzake, akafamba pamusoro pedenga reimba yamambo; akaona, aripo padenga, mukadzi wakanga achishamba; zvino mukadzi uyo wakanga akanaka kwazvo pakuonekwa kwake."
+   }
+  ]
+ },
+ "nya": {
+  "name": "Chichewa (Chewa)",
+  "source": "wikimedia en-ny (CC-BY-SA)",
+  "items": [
+   {
+    "id": 1,
+    "en": "Johns was born in Pretoria, South Africa, the daughter of Alice Maude Steele (née Wareham; 1901–1970), a pianist, and Mervyn Johns (1899–1992), a British stage and film actor.[2] Her roots are in West Wales, and she was born in Pretoria while her parents were performing on tour there.",
+    "ref": "Johns anabadwira ku Pretoria , South Africa , mwana wamkazi wa Alice Maude Steele ( née Wareham; 1901-1970), woimba piyano, ndi Mervyn Johns (1899-1992), woyang'anira filimu ku Britain. [1] Mizu yake ili ku West Wales , ndipo anabadwira ku Pretoria pamene makolo ake anali kuyendera kumeneko."
+   },
+   {
+    "id": 2,
+    "en": "The setting of the first game, the ringworld Halo, was stripped of many of its large creatures to make the Flood's surprise appearance more startling.",
+    "ref": "Mmene masewera oyambirirawo ankakhalira, Halo , yomwe inali yotchedwa ringworld, inachotsedwa ndi zolengedwa zake zambiri kuti zidabwitsenso kudabwitsa kwa Chigumula."
+   },
+   {
+    "id": 3,
+    "en": "Nobody's Fool is a 2018 American romantic comedy film written and directed by Tyler Perry.",
+    "ref": "Wopusa wa wina aliyense (Nobody's Fool) ndi filimu yokondeka ya ku America ya 2018 yomwe inalembedwa ndi Tyler Perry ."
+   },
+   {
+    "id": 4,
+    "en": "Instagram. Retrieved 2018-11-21. ↑ \"Kgomotso Christopher on her long-distance marriage\". Retrieved 2018-11-17.",
+    "ref": "Retrieved 2018-11-21. ↑ Empty citation (help) ↑ Empty citation (help) ↑ Empty citation (help) ↑ Empty citation (help)"
+   },
+   {
+    "id": 5,
+    "en": "She released her first album Maloza in 2005.",
+    "ref": "Anamasula Album yake yoyamba Maloza mu 2005."
+   },
+   {
+    "id": 6,
+    "en": "Charles was appointed Member of the Order of the British Empire (MBE) in the 2013 New Year Honours for services to equestrianism.[3]",
+    "ref": "Charles adasankhidwa kukhala Membala wa Order of the British Empire (MBE) mu Honours ya Chaka Chatsopano cha 2013 chifukwa cha ntchito zake zamahatchi."
+   },
+   {
+    "id": 7,
+    "en": "New in Halo 2 is the ability to board enemy vehicles that are near the player and traveling at low speeds.",
+    "ref": "Chatsopano mu Halo 2 ndikhoza kukwera magalimoto a adani omwe ali pafupi ndi osewera ndi kuyenda mofulumira."
+   },
+   {
+    "id": 8,
+    "en": "William Kamkwamba (born August 5, 1987) is a Malawian innovator, engineer and author.",
+    "ref": "William Kamkwamba (wobadwa pa August 5, 1987) ndi mlengi wa Malawi , injiniya ndi wolemba."
+   },
+   {
+    "id": 9,
+    "en": "However, the force of Halo's blast causes the slipspace portal to collapse, resulting in only the front half of Forward Unto Dawn, carrying the Arbiter, making it back to Earth.[2]",
+    "ref": "Komabe, mphamvu ya Halo ya kuphulika imachititsa kuti pakhomo lamasitima liwonongeke, zomwe zimangokhala theka la kutsogolo kwa Mmbuyo mpaka Chigumula , atanyamula Arbiter, ndikubwezeretsa ku Dziko lapansi."
+   },
+   {
+    "id": 10,
+    "en": "On 23 January 2019, Mtukudzi died at the age of 66 at Avenues Clinic in Harare, Zimbabwe.[6]",
+    "ref": "Pa 23 January 2019, Mtukudzi anamwalira ali ndi zaka 66 ku Kliniki ya Avenues ku Harare, Zimbabwe."
+   },
+   {
+    "id": 11,
+    "en": "Protagonist Master Chief (left) encounters the Flood in Halo: Combat Evolved (2001)",
+    "ref": "Protagonist Master Chief (kumanzere) akukumana ndi Chigumula ku Halo: Kumenyana Kusinthika (2001)"
+   },
+   {
+    "id": 12,
+    "en": "The two page ads first appeared in magazines in the U.S. while Kwelagobe was Miss Universe.",
+    "ref": "Masamba awiriwa pamasamba awiri adapezeka m'magazini ku US pamene Kwelagobe anali Miss Universe."
+   },
+   {
+    "id": 13,
+    "en": "She, however, did suddenly clash against Michael Sata of the Patriotic Front when he came to pay respects to her at her husband's funeral, resulting in Sata being forced off the premises.[2][3]",
+    "ref": "Komabe, iye adagonjetsa mwadzidzidzi Michael Sata wa Patriotic Front pamene adam'patsa ulemu pamaliro a mwamuna wake, zomwe zinachititsa Sata kukakamizika kupita kumalo."
+   },
+   {
+    "id": 14,
+    "en": "Maiko Zulu is a Zambian musician,[1] human rights activist[2] and a recognized International labour organisation child ambassador to Zambia.",
+    "ref": "Maiko Zulu ndi woimba wa ku Zambia, wofuna ufulu waumunthu komanso nthumwi yovomerezeka ya bungwe lapadziko lonse la anthu ogwira ntchito ku Zambia."
+   },
+   {
+    "id": 15,
+    "en": "A sequel, Halo Infinite, was announced at E3 2018.",
+    "ref": "Chotsatira, Halo Infinite , chinalengezedwa pa E3 2018 ."
+   },
+   {
+    "id": 16,
+    "en": "You know, the ties and the wife-beaters and all ...",
+    "ref": "Mukudziwa, mabwenzi ndi omenya akazi ndi onse ..."
+   },
+   {
+    "id": 17,
+    "en": "In May 2016, Mwanawasa announced her candidacy for Executive Mayor of Lusaka under the sponsorship of the United Party for National Development (UPND) in the 2016 general election held on August 11, 2016.",
+    "ref": "Mu May 2016, Mwanawasa adalengeza kuti adayitanitsa Mtsogoleri Wachigawo wa Lusaka mothandizidwa ndi United Party for National Development (UPND) mu chisankho cha 2016 chomwe chachitika pa August 11, 2016."
+   },
+   {
+    "id": 18,
+    "en": "Her first acting role came at 16, when she played Sara on the soap opera Jardins Proibidos (\"Forbidden Gardens\").[1]",
+    "ref": "Ntchito yake yoyamba inali ndi zaka 16, pamene ankasewera Sara pa sopo opanga Jardins Proibidos (\"Oletsedwa M'minda\")."
+   },
+   {
+    "id": 19,
+    "en": "At the 2009 CMA's, the group ended Rascal Flatts' six-year reign as Vocal Group of the Year.",
+    "ref": "Pa 2009 CMA, gululi linathetsa ulamuliro wa Rascal Flatts wa zaka zisanu ndi chimodzi monga Vocal Group of Year."
+   },
+   {
+    "id": 20,
+    "en": "The game opens as the Pillar of Autumn exits slipspace and discovers a large alien ringworld of unknown origin.",
+    "ref": "Masewerawo amatseguka pamene Nsonga ya Autumn imachoka ndikupeza mndandanda wawukulu wa alendo wosadziwika."
+   },
+   {
+    "id": 21,
+    "en": "Reaching the captain's last location, Master Chief encounters a new enemy, a parasite known as the Flood.",
+    "ref": "Atafika kumalo otsiriza a Chief captain, Chief Master akukumana ndi mdani watsopano, tizilombo toyambitsa matenda omwe amadziwika kuti Chigumula ."
+   },
+   {
+    "id": 22,
+    "en": "Lungu was raised Catholic, but she and her husband are now practicing Baptists.",
+    "ref": "Lungu anakulira Chikatolika , koma iye ndi mwamuna wake tsopano akubatiza ."
+   },
+   {
+    "id": 23,
+    "en": "Among others, she has addressed the World Summit on Sustainable Development, the Least Developed Countries conference, the World Youth Summit and the United States Congress (the United States House of Representatives Committee on Banking and Financial Services).",
+    "ref": "Pakati pa ena, adalankhula ndi Msonkhano wa Padziko Lonse pa Zomwe Zilikulimbikitsabe , Msonkhano Wolimbitsa Mayiko, Msonkhano wa Achinyamata Padziko Lonse ndi United States Congress (Komiti ya United States House of Representatives Committee on Banking and Financial Services)."
+   },
+   {
+    "id": 24,
+    "en": "I just put on some glasses and kept my hair kind of flat and layered on the clothing\", describing what she wore when auditioning for the role of Betty.",
+    "ref": "Ndinangovala magalasi ndipo tsitsi langa linakhala lopanda kanthu komanso lavala zovala \", pofotokoza zimene ankavala pamene ankawombera mlandu wa Betty."
+   },
+   {
+    "id": 25,
+    "en": "Cortana is an artificial intelligence found in the Halo franchise.",
+    "ref": "Cortana ndi nzeru zaluso zomwe zimapezeka mu Halo franchise. Mu masewera a pakompyuta, Cortana nthawi zambiri amatumikira monga mlangizi ndi wothandizira kwa chiwonetsero cha osewera, akuwongolera machitidwe a makompyuta achilendo ndi zojambula zojambula."
+   },
+   {
+    "id": 26,
+    "en": "She considered that a sign of women empowerment in the country.[12] Some sections of the media have criticized her role in social work as a campaign for her husband in upcoming presidential elections, but the accusation has been strongly condemned by the Patriotic Front.[4]",
+    "ref": "Anaganizira kuti chizindikiro cha mphamvu za amayi m'dzikoli. Zigawo zina zamalonda zatsutsa udindo wake kuntchito monga chidziwitso cha mwamuna wake mu chisankho cha pulezidenti, koma mlanduwu watsutsidwa kwambiri ndi Patriotic Front."
+   },
+   {
+    "id": 27,
+    "en": "It was the first Wikimania event to hold a volunteer training course.[21]",
+    "ref": "Ichi chinali choyamba choyamba cha Wikimania kuti apange maphunziro odzipereka."
+   },
+   {
+    "id": 28,
+    "en": "It's something that is always with me\".[31]",
+    "ref": "Ndi chinthu chomwe chimakhala nane nthawi zonse. \" [1]"
+   },
+   {
+    "id": 29,
+    "en": "Though she did not appear in the video with Luyanna, the two appeared in a music video of a new version of a previously released track, Why by Mampi.[9]",
+    "ref": "Ngakhale kuti sanawoneke pa vidiyoyi ndi Luyanna, awiriwa adawoneka mu kanema ya nyimbo ya nyimbo yatsopano yomwe inatulutsidwa kale, Chifukwa cha Mampi."
+   },
+   {
+    "id": 30,
+    "en": "Halo 2 is a 2004 first-person shooter video game developed by Bungie.",
+    "ref": "Halo 2 ndi sewero la vidiyo yoyamba yomaliza ya 2004 yomwe Bungie adayambitsa."
+   }
+  ]
+ },
+ "sot": {
+  "name": "Sesotho (Southern Sotho)",
+  "source": "wikimedia en-st (CC-BY-SA)",
+  "items": [
+   {
+    "id": 1,
+    "en": "His studies focused on understanding markets and development, aligning with South Africa's growing economy.",
+    "ref": "Dithuto tsa hae di ne li shebane le ho utlwisisa mebaraka le nts'etsopele, ho ikamahanya le moruo o ntseng o hola wa Afrika Borwa."
+   },
+   {
+    "id": 2,
+    "en": "As of January 2010, he plays for Royal Leopards in the Swazi Premier League and has won 12 caps for his country.",
+    "ref": "Ho tloha ka Pherekgong 2010, o bapalla Royal Leopards ho Swazi Premier League mme o hapile dikgau tse 12 bakeng sa naha ya habo."
+   },
+   {
+    "id": 3,
+    "en": "Trevor Noah (born 20 February 1984) is a South African comedian, writer, producer, political commentator, actor, and television host.",
+    "ref": "Trevor Noah ( Ya hlahileng ka la 20 Hlakola 1984) ke sebapadi sa metlae, sengodi, mohlahisi, moqoqo wa dipolotiki, sebapadi le mofani wa thelevishene wa Afrika Borwa."
+   },
+   {
+    "id": 4,
+    "en": "She rose to fame after being featured on a single \"Umlilo\" by DJ Zinhle, which was certified triple platinum by Recording Industry of South Africa.[1] She was declared a platinum selling musician after her single \"Ntyilo Ntyilo\" was cerified platinum in August 2021.",
+    "ref": "O ile a tsebahala ka mora ho hlahiswa ho pineng \"Umlilo\" ya DJ Zinhle, e ileng ya fumana kgau ya triple platinamo ke Recording Industry of South Africa. [3] O ile a phatlalatswa e le sebini se rekisang platinamo kamora hore pina ea hae \"Ntyilo Ntyilo\" e netefatsoe e le platinamo ka Phato 2021."
+   },
+   {
+    "id": 5,
+    "en": "\"Esiphambaweni\" featuring South African singer Hlengiwe Mhlaba, peaked number one in the gospel charts.[23][24][25] At the 27th South African Music Awards, The Voice of Africa received a nomination as Best Afro-pop Album.",
+    "ref": "\"Esiphambaweni\" e nang le sebini sa Afrika Borwa Hlengiwe Mhlaba, e fihlile palo ea pele lichate tsa gospel.[1][2][3] Moketeng wa bo27 oa South African Music Awards, The Voice of Africa e ile ya kgethwa e le Album e Molemohali ea Afrika-pop."
+   },
+   {
+    "id": 6,
+    "en": "The system is interconnected in such a way that water may be transferred in either direction for storage in Mohale or ultimate transfer to South Africa through the Katse reservoir.",
+    "ref": "Mokhoa ona o hokahane ka tsela e etsang hore metsi a fetisetsoe ekaba sebakeng sa polokelo Mohale kapa qetellong a fetisetse Afrika Boroa ka setsi sa metsi sa Katse."
+   },
+   {
+    "id": 7,
+    "en": "Instead, both joined Swiss side FC Zürich.",
+    "ref": "Ho ena le hoo, ka bobedi ba ile ba kena sehlopheng sa Switzerland sa FC Zurich."
+   },
+   {
+    "id": 8,
+    "en": "Mapulana people methodically prepared for the assault by gathering massive piles of boulders and rocks at the mountain's summit.",
+    "ref": "Batho ba Mapulana ba ile ba itokisetsa tlhaselo ka mokhoa o hlophisehileng ka ho bokella liqubu tse khōlō tsa majoe le mafika tlhōrōng ea thaba."
+   },
+   {
+    "id": 9,
+    "en": "Cape Town Stadium is the largest stadium in Cape Town, and the fifth-largest in South Africa. [citation needed]",
+    "ref": "Cape Town Stadium ke lebala le leholo ka ho fetisisa Cape Town, 'mme ke la bohlano le leholo Afrika Borwa. [citation needed]"
+   },
+   {
+    "id": 10,
+    "en": "In 1991, the band changed label again, signing for independent label CSR.",
+    "ref": "Ka 1991, sehlopha se ile sa fetola labels hape, sa saena bakeng sa labels e ikemetseng ea CSR."
+   },
+   {
+    "id": 11,
+    "en": "\"In the late 80s and early 90s jazz music was not widely played on radio – or anywhere else – in South Africa for nearly 20 years.",
+    "ref": "\"Matsatsing a morao a bo-80 le mathwasong a bo-90 mmino wa jazz o ne o sa bapalwe haholo seya-le-moyeng - kapa kae kapa kae - Afrika Boroa ka dilemo tse ka bang 20."
+   },
+   {
+    "id": 12,
+    "en": "Dube had identified the need to combine Western education with local customs and traditions, all grounded in broad African communal behaviour.",
+    "ref": "Dube o ne a bone ho hlokahala hore thuto ya Bophirimela e kopantswe le meetlo le dineano tsa moo, tsohle di thehilwe boitshwarong bo pharaletseng ba setjhaba sa Afrika."
+   },
+   {
+    "id": 13,
+    "en": "Isaac Lewis (1849 - 1925) was an industrialist born in Russia.",
+    "ref": "Isaac Lewis (1849 - 1925) e ne e le raliindasteri ya hlahetseng naheng ya Russia ."
+   },
+   {
+    "id": 14,
+    "en": "Fewer than 20 police officers were present in the station at the start of the protest.",
+    "ref": "Ho ne ho e-na le mapolesa a ka tlaase ho 20 seteisheneng ha boipelaetso bo qala."
+   },
+   {
+    "id": 15,
+    "en": "Industrial hemp textile products are made from cannabis plants selected to produce an abundance of fibre.",
+    "ref": "Dihlahiswa tsa hemp tsa indasteri di etswa ka dimela tsa matekwane tse kgethilweng ho hlahisa fiber e ngata."
+   },
+   {
+    "id": 16,
+    "en": "The documentary received an Award of Excellence at the International Film Festival for Peace, Inspiration, and Equality.",
+    "ref": "Filimi ena e fumane Kgau ya Bokgabane Moketeng wa Matjhaba wa Difilimi bakeng sa Kgotso, Pululelo le Tekano."
+   },
+   {
+    "id": 17,
+    "en": "Dumas was born in 1953 in Cape Town, South Africa, and grew up in Kuils River in the Western Cape, where her father had a vineyard.[3][1] She studied art at the University of Cape Town from 1972 to 1975, and then at Ateliers '63 in Haarlem, in North Holland in the Netherlands.",
+    "ref": "Dumas o hlahile ka 1953 Cape Town, Afrika Boroa, mme a hola Kuils River e kapa Bohlabela, moo ntate oa hae a neng a e-na le serapa sa morara. [3] O ithutile bonono Yunivesiti ya Kapa ho tloha ka 1972 ho fihlela ka 1975, mme hamorao Ateroers '63 Haarlem, North Holland Hôlanê ."
+   },
+   {
+    "id": 18,
+    "en": "He was brought to America by returning missionaries and attended Oberlin Preparatory Academy.[1]",
+    "ref": "O ile a tliswa Amerika ke baromuwa ba kgutlang mme a ya Oberlin Preparatory Academy. [1]"
+   },
+   {
+    "id": 19,
+    "en": "Many historians regard Mohlomi as a foundational intellectual influence behind the formation of the Basotho state.",
+    "ref": "Bo-rahistori ba bangata ba nka Mohlomi e le tšshusumetso ya motheo ea kelello e ka morao ho thehoeng ha mmuso wa Basotho."
+   },
+   {
+    "id": 20,
+    "en": "The first story's front facade was designed by Richard Wocke and the keystone was laid by President Brand on May 31, 1875.",
+    "ref": "Sebaka sa pele sa pale ea pele se entswe ke Richard Wocke 'me lejoe la bohlokwa le ile la behwa ke Mopresidente Brand ka May 31, 1875."
+   },
+   {
+    "id": 21,
+    "en": "The setting for his poems cover both his home and neighbouring South Africa, exploring topics such as apartheid, migrant labour, and Christianity.",
+    "ref": "Sebaka sa dithothokiso tsa hae se akaretsa lehae la hae le Afrika Borwa ya boahelani, se hlahloba dihlooho tse kang kgethollo ya morabe, basebetsi ba fallang le Bokreste."
+   },
+   {
+    "id": 22,
+    "en": "Habedi was born on 22 March 1952 in Alexandra, a township outside Johannesburg in the former Transvaal.[1] He was one of seven siblings and his father, Herman Habedi, was a labourer.",
+    "ref": "Habedi o hlahile ka la 22 Hlakubele 1952 Alexandra, toropo e kantle ho Johannesburg, Transvaal ya mehleng. E ne e le e mong wa bana ba supileng mme ntate wa hae, Herman Habedi, e ne e le Mosebeletsi wa matsoho."
+   },
+   {
+    "id": 23,
+    "en": "It is usually held between March and May of every year and has an exclusive window in the ICC Future Tours Programme.[2]",
+    "ref": "Liki ena e thehiloe ke Board of Control for Cricket in India (BCCI) ka 2007.[1]"
+   },
+   {
+    "id": 24,
+    "en": "Siyabonga Nhlapo (born 23 December 1988) is a South African professional soccer player who plays as a midfielder for Marumo Gallants in the Premier Soccer League.[1]",
+    "ref": "Siyabonga Nhlapo (ya hlahileng ka la 23 Tshitwe 1988) ke sebapadi sa profeshenale sa Afrika Borwa se bapalang e le sebapadi sa Marumo Gallants ho Premier Soccer League . [1]"
+   },
+   {
+    "id": 25,
+    "en": "Born in Johannesburg, Mashaba previously played club football for Platinum Stars, Free State Stars and Bidvest Wits.[4][5]",
+    "ref": "O hlahetse Johannesburg, Mashaba o kile a bapalla sehlopha sa bolo ya maoto Platinum Stars, Free State Stars le Bidvest Wits . [1] [2]"
+   },
+   {
+    "id": 26,
+    "en": "A pioneer of African rap in the 1980s, Senyaka gained national infamy for South Africa's first beef when he dissed pop legend Brenda Fassie on his 1993 song, \"Ma-Gents\".",
+    "ref": "Ene e le pula-maliboho ya mmino wa rap Afrika dilemong tsa bo-1980, Senyaka o ile a fumana botumo ba naha bakeng sa kopano ya pele ya Afrika Borwa ha a ne a nyatsa nalane ya pop Brenda Fassie pineng ya hae ya 1993, \"Ma-Gents\"."
+   },
+   {
+    "id": 27,
+    "en": "Among them were titles such as *My Sh*t Father*, *My Lotto Ticket*, and the cult series *Madluphuthu 1 & 2*.",
+    "ref": "Hara tsona ho ne ho e-na le ditlotla tse kang *My Sh*t Father*, *My Lotto Ticket*, le letoto la sehlotšoana sa bolumeli *Madluphuthu 1 & 2* ."
+   },
+   {
+    "id": 28,
+    "en": "Simultaneously, she featured on TV series' soundtrack with the release of \"Sure Ntombazana\".",
+    "ref": "Ka nako e tshwanang, o ile a hlahella mmining o tsamaisang le terama eo ya letoto la TV ka tokollo ya pina ya hae \"Sure Ntombazana\"."
+   },
+   {
+    "id": 29,
+    "en": "She is known for playing Violeta Mamba on the e.tv soap opera Scandal!,[1] and Mzansi Magic telenovela The Queen as Siyanda Dlamini.[2]",
+    "ref": "O tsejwa ka ho bapala Violeta Mamba ho e.tv soap opera Scandal!Ho etsa hore ho be le ho ferekana!, le Mzansi Magic telenovela The Queen e le Siyanda Dlamini."
+   },
+   {
+    "id": 30,
+    "en": "When she was two months old, her family moved to Johannesburg.",
+    "ref": "Ha ale dikgwedi pedi, lelapa la hae le ile la fallela motse moholo wa Gauteng Johannesburg."
+   }
+  ]
+ },
+ "tsn": {
+  "name": "Setswana (Tswana)",
+  "source": "wikimedia en-tn (CC-BY-SA)",
+  "items": [
+   {
+    "id": 1,
+    "en": "According to World Netball, the sport is played by more than 20 million people in more than 80 countries.[1][2] World Netball comprises more than 70 national teams organized into five global regions.",
+    "ref": "Go ya ka bolotlowa ya lefatshe, motshameko ono o tshamekiwa ke batho ba feta dimilione di le 20 mo dinageng tse di fetang 80 . [1] [2] World Netball e na le ditlhopha tsa bosetšhaba di feta 70 tse di rulagantsweng ka dikgaolo di le tlhano tsa lefatshe."
+   },
+   {
+    "id": 2,
+    "en": "The Technical and Vocational Training Corporation (Arabic: المؤسسة العامة للتدريب التقني و المهني‎) (TVTC) is a training institute in Saudi Arabia.",
+    "ref": "The Technical and Vocational Training Corporation (Arabic: المؤسسة العامة للتدريب التقني و المهني‎) (TVTC) ke instithushene ya thuto/katiso ya kwa Saudi Arabia."
+   },
+   {
+    "id": 3,
+    "en": "International Mother Language Day is a worldwide annual observance held on 21 February to promote awareness of linguistic and cultural diversity and to promote multilingualism.",
+    "ref": "Letsatsi la Boditšhabatšhaba la loleme lwa ga Mmè ke Moletlo wa ngwaga le ngwaga wa lefatshe lotlhe o o tshwarwang ka 21 Tlhakole go rotloetsa temogo ya dipuo le ditso tse di farologaneng le go rotloetsa dipuo di le dintsi."
+   },
+   {
+    "id": 4,
+    "en": "In 2010 the national water policy was revised in order to take into account \"current international developments\", to integrate cross-cutting issues such as gender, HIV/AIDS and climate change, and to introduce modern principles of water resources management.[18]",
+    "ref": "Ka 2010 go ne ga tlhabololwa leano la bosetšhaba la metsi gore go tsewe tsia \"dilo tse di diragalang mo lefatsheng lotlhe\", go akarediwa dikgang tse di farologaneng tse di jaaka bong, HIV/AIDS le phetogo ya tlelaemete, le go tsenngwa ga melaometheo ya segompieno ya go laola metswedi ya metsi"
+   },
+   {
+    "id": 5,
+    "en": "From 2002 the TAFE education sector has been able to offer bachelor's degrees and post-graduate diploma courses to fill niche areas, particularly vocationally focused areas of study based on industry needs.",
+    "ref": "Go tloga ka ngwaga wa 2002 lefapha la thuto la TAFE le kgonne go abelana ka dikerii ya bachelor le ka dithutiso tsa post-graduate diploma go tlatsa sekgala, segolo thata sa thutotiro tse di itebantseng le di -area tsa thuto ya tiro e e rileng."
+   },
+   {
+    "id": 6,
+    "en": "She died of a heart attack during a 2008 concert in Italy.",
+    "ref": "O ne a bolawa ke bolwetse jwa pelo ka nako ya konsarata ka 2008 kwa Italy."
+   },
+   {
+    "id": 7,
+    "en": "In the 1970s, many female academics, including scientists, avoided having children.",
+    "ref": "Ka bo 1970s, diachademiki tsa bomme di le dintsi, go akaretsa ba thutamatlhale, di ne tsa ikatologanya le go tshola bana."
+   },
+   {
+    "id": 8,
+    "en": "Khama III (1837?–1923), referred to by missionaries as Khama the Good also called Khama the Great, was the Kgosi (meaning king) of the Bangwato people.",
+    "ref": "Khama III (o tshotswe ka bo 1837? mme a thokafala ka 1923), yo barongwa ba neng ba mmitsa Khama yo o Molemo gape ba mmitsang Khama yo Mogolo, e ne e le Kgosi ya morafe wa Bangwato."
+   },
+   {
+    "id": 9,
+    "en": "The French derivative Tunisie was adopted in some European languages with slight modifications, introducing a distinctive name to designate the country.",
+    "ref": "Leina la Sefora la Tunisia le ne la amogelwa mo dipuong dingwe tsa Yuropa ka diphetogo tse ditshesane, go tsenngwa leina le le kgethegileng go fa tlhaloso ya lefatshe."
+   },
+   {
+    "id": 10,
+    "en": "T-shirts are generally made of stretchy, light, and inexpensive fabric and are easy to clean.",
+    "ref": "Dikipa ka tlwaelo di dirilwe ka letsela le le otlologang, le le motlhofo, le leng ka tlhatlhwa yakwa tlase mme go motlhofo go di phepafatsa."
+   },
+   {
+    "id": 11,
+    "en": "In 2015, Gagiano was cast as the lead in South Africa’s national Toyota ad campaign to advertise the new Toyota Aygo.",
+    "ref": "Ka ngwaga wa 2015, Gagiano o ne a tlhomiwa jaaka motshameki wa ntlha mo papatsong ya bosetšhaba ya Toyota mo Aforikaborwa, go bapatsa koloi e ntšha ya Toyota Aygo."
+   },
+   {
+    "id": 12,
+    "en": "On the South African end it continues as the N18 to Mahikeng.",
+    "ref": "Kwa bofelong jwa Aforika Borwa e tswelela ele N18 go ya kwa Mahikeng."
+   },
+   {
+    "id": 13,
+    "en": "Despite having three nations bidding, voting only took one round.",
+    "ref": "Le fa go ne go na le merafe e le meraro e e neng e batla go tlhopiwa, go ne ga nna le tikologo e le nngwe fela ya ditlhopho."
+   },
+   {
+    "id": 14,
+    "en": "In 2004, he created his own record label, OSSH Productions.",
+    "ref": "Ka 2004, o ne a itirela khamphani ya gagwe ya direkoto, e leng OSSH Productions."
+   },
+   {
+    "id": 15,
+    "en": "The organization combines advocacy and actual initiatives to help achieve systemic change and provide direct services.",
+    "ref": "Mokgatlho o kopanya bobueledi le maiteko a nnete go thusa go fitlhelela phetogo ya thulaganyo le go tlamela ka ditirelo tse di tlhamaletseng."
+   },
+   {
+    "id": 16,
+    "en": "After the series of wars with Greek city-states of Sicily in the 5th century BC, Carthage rose to power and eventually became the dominant civilization in the Western Mediterranean.",
+    "ref": "Morago ga dintwa tse di tlhomaganeng le ditoropo tsa Gerika tsa Sicily mo lekgolong la botlhano la dingwaga BC, Carthage e ne ya nna maatla mme kgabagare ya nna yone toropo e e thabologileng thata mo Bophirima jwa Mediterranean."
+   },
+   {
+    "id": 17,
+    "en": "In 2008, some 5 million learners in 14 264 schools benefited from the No Fee school programme, and most of those learners were in the Eastern Cape, KwaZulu-Natal and Limpopo provinces.",
+    "ref": "Ka ngwaga wa 2008, barutwana bangwe ba dimilione di le 5 mo dikolong tse di 14 264 benefitile mo dikolong tse di mo lenaneong la No Fee school, gape bontsi ba barutwana ba ba kwa diprobentsheng tsa Kapa Botlhaba, Kwa-Zulu Natala le Limpopo."
+   },
+   {
+    "id": 18,
+    "en": "Normally it is cooked by men in a three legged pot by men using only salt and water in a low temperature fire till its well cooked.",
+    "ref": "Gantsi e apewa ke borre mo pitsaneng e e maoto mararo kwa leisong,e apewa ka leswai le metsi fela mo molelong o o kwa tlase go fitlhale le butswa thata e bo e nna boruma."
+   },
+   {
+    "id": 19,
+    "en": "Winnie Mashaba is a South African gospel singer, TV presenter, and businesswoman.",
+    "ref": "Winnie Mashaba ke seopedi sa efangele sa Aforikaborwa, mogasi wa thelebišene, le mosadi wa kgwebo ."
+   },
+   {
+    "id": 20,
+    "en": "Youth Day in India is celebrated on January 12 on the birthday of Swami Vivekananda.",
+    "ref": "Letsatsi la bašwa kwa India le ketekiwa ka Ferikgong 12 ka letsatsi la matsalo la ga Swami Vivekananda ."
+   },
+   {
+    "id": 21,
+    "en": "The list of the Directors-General of UNESCO since its establishment in 1946 is as follows:[140]",
+    "ref": "Lenaneo la Baokamedi bagolo ba UNESCO fa e sa le e tlhongwa ka 1946 le ntse jaana: [1]"
+   },
+   {
+    "id": 22,
+    "en": "A Monographic Study of the Subfamily Tiphiinae Hymenoptera: Tiphiidae of South America, Volume 113 of Smithsonian Contributions to zoology. Smithsonian Inst.",
+    "ref": "A Monographic Study of the Subfamily Tiphiinae Hymenoptera: Tiphiidae of South America, Bolumo 113 ya Smithsonian Contributions to zoology.Setheo sa Smithsonian Inst."
+   },
+   {
+    "id": 23,
+    "en": "From the late 1950s, these areas were gradually consolidated into \"homelands\", also called \"bantustans\".",
+    "ref": "Go tloga ka di 1950s, lefatshe le la batho bantsho le ne la fetolwa go nna \"magae\", kapa \"Bantustans\"."
+   },
+   {
+    "id": 24,
+    "en": "African children attended mission schools, for the most part, and were taught by clergy or by lay teachers, sometimes with government assistance.[16]",
+    "ref": "Bana ba maAforika ba ne ba tsena dikolo tsa dimishine, segolo thata, mme ba ne ba rutwa ke baruti kgots ke barutisi ba sa rupelelwang, ka nako dingwe ba thuswa ke mmuso. [16]"
+   },
+   {
+    "id": 25,
+    "en": "Specifically, this means that 59% of Moroccans had access to piped water in their house or in the yard of their house.[1] As of 2004, for 11% the main source of water supply was a public stand pipe, for 5.6% it was a protected well.",
+    "ref": "Ka tlhamalalo, sêno se raya gore dipalo tsa 59% ya Ba-Morocco ba ne ba kgôna go bôna mêtsi a diphaepe mo ntlong ya bônê kgotsa mo jarateng ya ntlo ya bone. Go tloga ka ngwaga wa 2004, 11% motswedi o mogolo wa metsi e ne e le phaephe ya setšhaba, 5.6% e ne e ri sediba se se sireleditsweng."
+   },
+   {
+    "id": 26,
+    "en": "The LGBTQ community includes elements such as LGBTQ social movements (including LGBTQ rights organizations), LGBTQ student groups in schools and universities, and LGBTQ-affirming religious groups.",
+    "ref": "Baagi ba LGBTQ ba akaretsa dikarolo tse di jaaka mekgatlho ya loago ya LGBTQ ( go akaretsa le mekgatlho ya ditshwanelo tsa LGBTQ ), ditlhopha tsa baithuti ba LGBTQ kwa dikolong le kwa diyunibesithing, le ditlhopha tsa bodumedi tse di tshegetsang LGBTQ ."
+   },
+   {
+    "id": 27,
+    "en": "He also served as acting president starting on 8 August when President Cyril Ramaphosa was out of the country.",
+    "ref": "Gape o ne a dira jaaka moporesidente wa namane o sa tshwere go simolola ka la bo 8 Phatwe fa Moporesitente Cyril Ramaphosa a ne a le kwa ntle ga naga."
+   },
+   {
+    "id": 28,
+    "en": "He ruled from 1910 to 1960 having succeeded his father, Kuswani Nswazwi (Nswazwi VII).",
+    "ref": "O tsere bogosi kwa go rraagwe, Kuswani Nswazwi (Nswazwi VII) a busa go simolola ka 1910 go fitlha ka 1960."
+   },
+   {
+    "id": 29,
+    "en": "1 2 3 4 Baron, Zach (February 22, 2018). \"What Ever Happened To Brendan Fraser?\".",
+    "ref": "Retrieved 2022-09-05. ↑ ↑ \"Brendan Fraser's Looney Adventure\"."
+   },
+   {
+    "id": 30,
+    "en": "Babetli ba setse ba. betla dikikanyana, metshenyana, le dikopi tse tse ba di direlang gone go kgabisa fela.",
+    "ref": "Mo tlholegong ya Setswana, Batswana ba ne ba itse go gakolosa tshipi, ba itirele dilepe, digai, dithipa, megoma e e otolang, le tse dingwe tse ba neng ba di tlhoka go itshetsa le go iphemela ka tsona."
+   }
+  ]
+ },
+ "tso": {
+  "name": "Xitsonga (Tsonga)",
+  "source": "wikimedia en-ts (CC-BY-SA)",
+  "items": [
+   {
+    "id": 1,
+    "en": "They reject Trinitarianism, inherent immortality of the soul, and hellfire, which they consider to be unscriptural doctrines.",
+    "ref": "Va ala Vunharhu-vun'we, Kupona ka moyaxiviri, na ndzilo wa tihele, leswi va vulaka swi hambana na matsalwa."
+   },
+   {
+    "id": 2,
+    "en": "Ferguson started his journey into the world of entertainment in Lesotho as a club DJ at The Palace Hotel Night Club in 1992.",
+    "ref": "Ferguson u sungurile riendzo ra yena eka misava ya vuhungasi eLesotho tanihi club DJ eka The Palace Hotel Night Club hi 1992."
+   },
+   {
+    "id": 3,
+    "en": "Coronal mass ejections have been tracked as far out in the Solar System as Saturn.[68] The activity of this system can affect planetary atmospheres and occasionally surfaces.",
+    "ref": "Ku humesiwa ka koroni hi vunyingi ku landzelerisiwe ku ya fika eSolar System ku fana na Saturn . [ 68 ] . Ntirho wa fambiselo leri wu nga khumba swibakabaka swa tipulanete naswona minkarhi yin’wana swi nga khumba swilo leswi nga ehenhla ka misava."
+   },
+   {
+    "id": 4,
+    "en": "These differences are further exacerbated in developing countries where women, whose health includes both their risks and experiences, are further disadvantaged.",
+    "ref": "Ku hambana loku ku vonaka ku nyanyile ematikweni lama ha hluvukaka laha vavasati lava rihanyo ra vona ri katsaka makhombo na ntokoto wa vona, va yaka va va na swiphiqo."
+   },
+   {
+    "id": 5,
+    "en": "Employment is a relationship between two parties regulating the provision of paid labour services.",
+    "ref": "Ntirho i vuxaka exikarhi ka mintlawa yimbirhi leyi lawulaka mphakelo wa mi ntirho na ku holela vatirhi."
+   },
+   {
+    "id": 6,
+    "en": "Lightning is one of the most dramatic effects of electricity.",
+    "ref": "Rihati ixin'wana xa swikombiso swa Gezi."
+   },
+   {
+    "id": 7,
+    "en": "Walter Sisulu was born in 1912 in the town of Ngcobo in the Union of South Africa, part of what is now the Eastern Cape province (then the Transkei).",
+    "ref": "Walter Sisulu u velekiwe hi 1912 edorobeni ra Ngcobo e Union of South Africa, xiphemu xa laha sweswi kunga xifundzha xa Eastern Cape (hi nkarhi walowo a ku ri Transkei )."
+   },
+   {
+    "id": 8,
+    "en": "In some usages, the definition of a tree may be narrower, e.g., including only woody plants with secondary growth, only plants that are usable as lumber, or only plants above a specified height.",
+    "ref": "Eka matirhiselo man’wana, nhlamuselo ya nsinya yingava yitsongo, xikombiso, kukatsa ntsena swimilani swa tihunyi leswingana kukula ka vumbirhi, ntsena swimilani leswi tirhisiwaka tani hi timhandzi, kumbe swimilani ntsena leswinga ehenhla ka ku leha loku vekiweke."
+   },
+   {
+    "id": 9,
+    "en": "The lowercase version is often written in one of two forms: the double-storey |a| and single-storey |ɑ|.",
+    "ref": "Vuhundzuluxi bya maletere lamatsongo byi tala ku tsariwa hi yin’wana ya swivumbeko swimbirhi: ya swithezi swimbirhi | a | na xiteji xin'we | ɑ ɑ | ."
+   },
+   {
+    "id": 10,
+    "en": "Sisulu later called them \"armed bandits.\"",
+    "ref": "Ka ndzhaku Sisulu u ve a vula maphorisa lama tani hi \"tinsulavoya leti hlomeke.\""
+   },
+   {
+    "id": 11,
+    "en": "It is a violation to lift or drag one's pivot foot without dribbling the ball, to carry it, or to hold the ball with both hands then resume dribbling.",
+    "ref": "I ku tlula nawu ku tlakusa kumbe ku koka nenge wa munhu wo pivot handle ko dribble bolo, ku yi rhwala, kumbe ku khoma bolo hi mavoko hamambirhi ivi u tlhela u sungula ku dribble ."
+   },
+   {
+    "id": 12,
+    "en": "London: Sage Publications. ↑ The Cambridge History of China: Alien regimes and border states, 907–1368, 1994, p.",
+    "ref": "622, cited by White *Matthew White (2011-11-07)."
+   },
+   {
+    "id": 13,
+    "en": "On 10 December 2018, the song became the first song to hit 2 billion streams on Spotify and is currently the 2nd most streamed song on the platform with 3.6 billion streams, behind \"Blinding Lights\" by the Weeknd.",
+    "ref": "Hi ti 10 December 2018, risimu leri ri vile risimu ro sungula ku fika eka 2 biliyoni ya swihambukelo eka Spotify naswona sweswi i risimu ra vu-2 leri hangalasiweke ngopfu eka pulatifomo hi 3.6 wa tibiliyoni ta swihambukelo, endzhaku ka \" Blinding Lights \" hi Weeknd ."
+   },
+   {
+    "id": 14,
+    "en": "\"The Beer Archaeologist\". Smithsonian.com. ↑ McGovern, Patrick, Uncorking the Past, 2009, ISBN 978-0-520-25379-7. pp. 66–71. ↑ \"Jar in Iranian Ruins Betrays Beer Drinkers of 3500 B.C.\".",
+    "ref": "Smithsonian.com. ↑ McGovern, Patrick, Uncorking the Past, 2009, ISBN 978-0-520-25379-7. pp. 66–71. ↑ \"Jar in Iranian Ruins Betrays Beer Drinkers of 3500 B.C.\"."
+   },
+   {
+    "id": 15,
+    "en": "In the 21st century, the modern nation-state is the predominant form of state to which people are subject.",
+    "ref": "Eka malembe-xidzana ya vu 21, vanhu hinkwavo va wela eka mfumo wa tiko."
+   },
+   {
+    "id": 16,
+    "en": "The most common materials stoves are made of are cast iron, steel, and stone.[1]",
+    "ref": "Swilo leswi tolovelekeke ngopfu leswi switofu swi endliwaka ha swona i nsimbi leyi hoxiweke, na maribye."
+   },
+   {
+    "id": 17,
+    "en": "It is closely related to the Frisian languages, but its vocabulary has been significantly influenced by other Germanic languages, particularly Norse (a North Germanic language), as well as by Latin and French.[6]",
+    "ref": "Swiga ririmi swarona swihlohloteriwa ngopfu hi tindzimi tin'wana ta xiJarimani, ngopfu-ngopfu Xinirse, Xilatini na Xifurhwa.[1]"
+   },
+   {
+    "id": 18,
+    "en": "Apollo 11 was a spaceflight conducted by the United States from July 16 to July 24, 1969.",
+    "ref": "Apollo 11 a ku ri xihaha-mpfhuka lexi a xi fambisiwa hi United States ku sukela hi July 16 ku ya eka July 24, 1969."
+   },
+   {
+    "id": 19,
+    "en": "The Swazi or siSwati language is a Bantu language of the Nguni group spoken in Eswatini and South Africa by the Swati people.",
+    "ref": "Xiswazi (kumbe SiSwati) i ririmi ra xingoni leri vulavuriwaka eEswatini na Afrika Dzonga hi maswazi."
+   },
+   {
+    "id": 20,
+    "en": "SportsPro named him the most marketable athlete in the world in 2012 and 2013, and ESPN cited him as the world's fourth-most-famous athlete in 2016.",
+    "ref": "SportsPro yi n’wi thye vito ra mutlangi loyi a xavisiwaka ngopfu emisaveni hi 2012 na 2013, naswona ESPN yi n’wi tshahile tanihi mutlangi wa vumune loyi a dumeke swinene emisaveni hi 2016."
+   },
+   {
+    "id": 21,
+    "en": "Today, eight subspecies are recognised in its wide range in Africa and Asia.",
+    "ref": "Namuntlha, tinxaka letitsongo ta nhungu ta tiviwa hi ku anama ka tona eAfrika ni le Asia ."
+   },
+   {
+    "id": 22,
+    "en": "By selling directly to consumers, produce often needs less transport, less handling, less refrigeration and less time in storage.",
+    "ref": "Hiku xavisa hiku kongoma eka vaxavi, swihumelerisiwa switala kuva swilava vutleketli byintsongo, ku khomiwa kutsongo, ku vekiwa ka xigwitsirisi kutsongo xikan’we na nkarhi wutsongo wo hlayisa."
+   },
+   {
+    "id": 23,
+    "en": "Mawewe later found his way to Zimbabwe serima area and died there after 1930.",
+    "ref": "Mawewe utsutsumele e tikweni ra Zimbabwe, e ndhzawini ya Serima laha a loveke kona endzaku ka lembe ra 1930."
+   },
+   {
+    "id": 24,
+    "en": "Soon after its introduction, the bottle became extremely popular with the soft drink and brewing industries, mainly in Europe, Asia and Australasia, though some alcohol drinkers disdained the use of the bottle.",
+    "ref": "Endzhakunyana ka loko yi sungule ku sunguriwa, bodlhela leri risungule ku tsakeriwa swinene eka ti indasitiri ta swakunwa swo kufumela naku endla byala, ngopfu ngopfu e Europe, Asia na Australasia, hambi leswi vanwi van’wana va byala ava nyenya ku tirhisiwa ka bodlhela leri."
+   },
+   {
+    "id": 25,
+    "en": "In 2022, there were more than 1.1 billion goats living in the world, of which 150 million were in India.",
+    "ref": "Hi lembe ra 2022, a ku ri na timbuti to tlula 1.1 wa tibiliyoni leti a ti tshama emisaveni hinkwayo, laha 150 wa timiliyoni a ti ri e indiya."
+   },
+   {
+    "id": 26,
+    "en": "Madjozi is well-known for her hairstyles influenced by Fulani and Tuareg women.[22] The ethic hairstyles influenced girls and women which became a trend mainly from her breakthrough year (2016) in South Africa and other worldwide regions.",
+    "ref": "Madjozi u tiveka ngopfu hi mahorhele yakwe ya misisi lama hlohloteriweke hi vasati va va Fulani na va Tuareg.[1] Ma horhele lama ma hlohlotele vanwhana na vavasati e Afrika Dzonga na swiyenge swin'wana swa misava hi lembe ra 2016 loko ata sungula ku tiveka."
+   },
+   {
+    "id": 27,
+    "en": "Black movement between the two states existed to a large extent due to the possibility of employment of Mozambicans in the mines of South Africa.",
+    "ref": "A mphesamphesa ya vantima exikarhi ka mimfumo leyi mbirhi yi ve kona hi ntalo hikwalaho ka ku kumeka ka ntirho eka lava Mozambhiki emigodini ya Afrika-Dzonga."
+   },
+   {
+    "id": 28,
+    "en": "Adult males often compete to keep or gain their membership in the pride.",
+    "ref": "Hakanyingi ta xinuna letikulu ti phikizana ku hlayisa kumbe ku kuma xirho xa tona eka ku tinyungubyisa."
+   },
+   {
+    "id": 29,
+    "en": "Born in the Transkei, he left South Africa aged twenty to attend university in England, and spent almost three decades in exile abroad, until the ANC was unbanned in 1990.",
+    "ref": "U velekiwile e Transkei, u sukile e Afrika Dzonga ari na makume mbirhi wa malembe kuya nghena yunivhesiti e England, naswona u hete kwalomu ka makume nharhu wa malembe ari evuhlongeni ematikweni yale handle, kufikela loko vandla ra ANC ringa yirisiwa hi lembe ra 1990."
+   },
+   {
+    "id": 30,
+    "en": "After many inquiries, Eric Carle explained that it was intentional:[24]",
+    "ref": "Endzhaku ko vutisa ko tala, Eric Carle u hlamuserile leswaku a ku ri hi vomu:"
+   }
+  ]
+ }
+}

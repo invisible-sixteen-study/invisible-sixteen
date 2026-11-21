@@ -1,0 +1,13 @@
+model,language,iso639-3,n_tokens,perplexity
+Qwen/Qwen2.5-0.5B,English,eng,10545,23.09
+Qwen/Qwen2.5-0.5B,Shona,sna,18886,178.71
+Qwen/Qwen2.5-0.5B,"Ndebele (Northern, Zimbabwe)",nde,19999,201.5
+Qwen/Qwen2.5-0.5B,"Ndebele (Southern, SA)",nbl,15728,127.97
+Qwen/Qwen2.5-0.5B,Tswana,tsn,19999,109.35
+Qwen/Qwen2.5-0.5B,Sotho (Southern),sot,19999,115.29
+Qwen/Qwen2.5-0.5B,Xitsonga / Shangani,tso,19999,112.8
+Qwen/Qwen2.5-0.5B,Chewa,nya,19999,132.09
+Qwen/Qwen2.5-0.5B,Venda,ven,4490,96.02
+Qwen/Qwen2.5-0.5B,Tonga (Zimbabwe),tog,19999,104.07
+Qwen/Qwen2.5-0.5B,Ndau,ndc,19999,162.24
+Qwen/Qwen2.5-0.5B,Kalanga,kck,19999,190.3
